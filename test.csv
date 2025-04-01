@@ -1,0 +1,376 @@
+province_or_territory,region,pet_ownership,pet_ownership_change,pet_attitude,age,highest_education,ethnicity,gender,num_in_household,yearly_income,income_change_since_pandemic_beginning,disability,emotional_psychological_mental_health_condition,mental_health_change_since_pandemic_beginning,COVID-19_positive_or_household_member,social_support,quality_of_life,self-assessed_overall_health,loneliness,perceived_mental_health,self-reported_stress_level,anxiety
+Ontario,Ontario,Yes,No,109,25-34,College,Caucasians,Women,1,"$60,000-$79,999",Decreased,No,No,0,No,Yes,0.911329469,67,6,0,3,2
+Yukon,Prairies,Yes,New,75,55-64,High school,Caucasians,Women,2,"$60,000-$79,999",Do not know,No,No,0,No,Yes,0.911329469,80,5,1,2,1
+Ontario,Ontario,No,Loss,100,65+,College,Caucasians,Women,5,"$100,000-$119,999",Decreased,No,No,0,No,Yes,0.948967801,80,3,1,2,1
+Qu�bec,Qu�bec,Yes,No,114,35-44,University,Caucasians,Other or did not answer,1,"$20,000-$39,999",Decreased,Yes,Yes,-1,No,Yes,0.707181538,60,5,0,3,1
+Ontario,Ontario,Yes,No,117,65+,College,Caucasians,Women,2,Prefer not to answer,Stayed the same,No,No,-1,No,Yes,0.911329469,81,3,-1,3,2
+Qu�bec,Qu�bec,Yes,No,67,55-64,University,Caucasians,Men,1,"$80,000-$99,999",Increased,No,No,0,No,Yes,0.911329469,95,5,2,3,1
+Ontario,Ontario,Yes,No,95,45-54,University,Caucasians,Women,3,Prefer not to answer,Stayed the same,No,Yes,0,No,Yes,0.873691138,80,3,0,3,2
+Ontario,Ontario,Yes,New,111,45-54,College,Caucasians,Women,3,"$100,000-$119,999",Stayed the same,No,Yes,-2,No,No,0.605626675,49,7,-2,4,4
+Qu�bec,Qu�bec,Yes,No,123,55-64,University,Caucasians,Women,2,"$100,000-$119,999",Stayed the same,No,No,0,No,Yes,0.948967801,90,3,1,1,1
+Ontario,Ontario,No,No,101,65+,University,Caucasians,Women,2,"$120,000 or more",Stayed the same,No,No,-2,No,No,0.726638801,63,8,-1,2,3
+Ontario,Ontario,No,No,72,55-64,College,Caucasians,Women,3,"$80,000-$99,999",Stayed the same,Yes,No,0,No,Yes,0.428659227,20,3,1,2,1
+British Columbia,British Columbia,Yes,No,72,45-54,College,Caucasians,Men,2,"$20,000-$39,999",Decreased,No,No,0,No,Yes,0.866965901,70,3,0,3,2
+Ontario,Ontario,No,No,83,65+,University,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,No,Yes,0,No,No,0.663951874,60,9,-1,4,4
+Manitoba,Prairies,No,No,86,35-44,University,Caucasians,Women,1,"$60,000-$79,999",Stayed the same,No,Yes,-1,No,Yes,0.784964,70,3,-2,2,4
+Manitoba,Prairies,Yes,No,123,18-24,Before high school,Caucasians,Women,5,"$80,000-$99,999",Stayed the same,No,No,-1,No,Yes,0.911329469,80,8,-1,3,1
+Ontario,Ontario,Yes,No,108,35-44,College,Caucasians,Men,1,"$19,999 or less",Decreased,Yes,Yes,-2,No,No,0.598673646,55,9,-1,5,4
+British Columbia,British Columbia,No,No,74,45-54,High school,Others,Men,1,"$40,000-$59,000",Decreased,No,No,0,No,Yes,0.948967801,82,6,0,2,2
+Ontario,Ontario,No,No,78,55-64,University,Caucasians,Women,2,Prefer not to answer,Decreased,No,No,-1,No,No,0.904604232,88,7,0,2,1
+Qu�bec,Qu�bec,Yes,Loss,106,35-44,College,Others,Men,2,"$20,000-$39,999",Decreased,Yes,Yes,-2,No,No,0.514943386,60,9,-2,4,3
+Qu�bec,Qu�bec,Yes,No,109,55-64,Before high school,Caucasians,Women,4,"$60,000-$79,999",Do not know,No,No,0,No,Yes,0.948967801,91,6,0,1,1
+Ontario,Ontario,Yes,No,103,45-54,University,Caucasians,Men,2,Prefer not to answer,Decreased,No,No,-2,No,No,0.911329469,68,9,0,4,3
+Northwest Territories,Prairies,Yes,Loss,105,65+,College,Caucasians,Men,1,"$40,000-$59,000",Decreased,No,No,0,No,Yes,0.904604232,94,5,2,2,1
+Ontario,Ontario,Yes,No,111,45-54,High school,Caucasians,Men,3,"$120,000 or more",Stayed the same,No,Yes,0,No,No,0.911329469,71,6,0,4,1
+British Columbia,British Columbia,No,No,59,25-34,College,Caucasians,Men,4,"$120,000 or more",Stayed the same,No,Yes,-1,No,Yes,0.911329469,74,6,0,3,1
+Ontario,Ontario,Yes,No,124,45-54,College,Caucasians,Men,1,"$40,000-$59,000",Stayed the same,No,No,0,No,Yes,0.948967801,98,5,1,2,1
+Alberta,Prairies,Yes,No,119,18-24,High school,Others,Women,3,"$40,000-$59,000",Stayed the same,Yes,Yes,-1,Yes,No,0.466123836,37,9,-2,5,4
+Qu�bec,Qu�bec,No,No,99,55-64,University,Caucasians,Women,2,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.948967801,97,3,2,2,1
+New Brunswick,Atlantic,No,No,73,25-34,University,Caucasians,Women,3,"$60,000-$79,999",Stayed the same,No,No,1,No,No,0.911329469,89,5,0,2,1
+British Columbia,British Columbia,No,No,72,55-64,University,Others,Women,3,"$120,000 or more",Decreased,No,No,-1,No,Yes,0.911329469,41,4,-2,4,4
+Ontario,Ontario,No,No,82,45-54,College,Caucasians,Men,2,"$20,000-$39,999",Decreased,No,No,0,No,Yes,0.873691138,85,7,0,3,2
+Manitoba,Prairies,Yes,No,109,25-34,High school,Caucasians,Men,1,Prefer not to answer,Prefer not to answer,Yes,Yes,-1,No,No,0.619588306,49,3,-1,3,3
+British Columbia,British Columbia,No,No,105,35-44,College,Others,Men,2,"$60,000-$79,999",Decreased,No,No,1,No,Yes,0.866965901,88,3,1,3,1
+Ontario,Ontario,No,No,96,55-64,College,Others,Men,4,"$60,000-$79,999",Increased,No,No,0,No,Yes,0.904604232,70,3,0,1,1
+Qu�bec,Qu�bec,No,No,57,35-44,College,Caucasians,Men,3,"$40,000-$59,000",Decreased,No,No,-2,No,No,0.866965901,84,8,-1,3,2
+British Columbia,British Columbia,No,No,45,55-64,University,Others,Women,4,"$100,000-$119,999",Stayed the same,No,No,0,No,Yes,0.828097965,81,3,0,3,1
+Ontario,Ontario,No,No,73,45-54,University,Caucasians,Men,3,"$80,000-$99,999",Stayed the same,No,No,-1,No,No,0.829327569,59,6,-1,3,2
+Qu�bec,Qu�bec,No,No,63,18-24,High school,Caucasians,Women,5,Prefer not to answer,Stayed the same,No,No,-1,No,Yes,0.904604232,92,3,0,2,1
+Qu�bec,Qu�bec,Yes,No,120,45-54,College,Caucasians,Women,3,"$40,000-$59,000",Decreased,No,No,-1,No,Yes,0.866965901,75,5,0,4,3
+Nova Scotia,Atlantic,Yes,No,107,18-24,High school,Caucasians,Women,2,"$80,000-$99,999",Decreased,No,No,0,Yes,Yes,0.948967801,91,3,0,3,1
+British Columbia,British Columbia,Yes,No,112,35-44,College,Caucasians,Women,3,"$60,000-$79,999",Stayed the same,Yes,No,0,No,Yes,0.429024881,25,5,1,2,1
+Qu�bec,Qu�bec,No,No,83,35-44,University,Caucasians,Men,3,"$20,000-$39,999",Stayed the same,No,Yes,-2,No,Yes,0.891872206,70,5,0,3,3
+Newfoundland and Labrador,Atlantic,Yes,No,105,35-44,College,Caucasians,Women,4,"$20,000-$39,999",Stayed the same,No,Yes,-2,No,Yes,0.708315443,38,5,-2,4,3
+Qu�bec,Qu�bec,No,No,75,65+,University,Caucasians,Men,2,"$100,000-$119,999",Stayed the same,No,No,0,No,Yes,0.911329469,85,3,2,1,1
+Qu�bec,Qu�bec,No,No,95,65+,University,Caucasians,Men,2,"$120,000 or more",Increased,No,No,1,No,Yes,0.598449273,25,3,0,2,1
+Alberta,Prairies,Yes,No,82,25-34,University,Caucasians,Men,4,"$60,000-$79,999",Stayed the same,No,No,1,No,No,0.948967801,90,4,1,3,2
+British Columbia,British Columbia,No,No,99,35-44,College,Caucasians,Men,1,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.948967801,73,5,1,2,1
+Ontario,Ontario,Yes,New,99,35-44,College,Caucasians,Women,4,"$80,000-$99,999",Increased,No,Yes,-2,No,Yes,0.847508638,46,6,-1,3,4
+Qu�bec,Qu�bec,No,No,91,45-54,University,Caucasians,Men,1,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.948967801,71,3,1,2,1
+Ontario,Ontario,Yes,Loss,70,45-54,University,Caucasians,Men,5,"$120,000 or more",Decreased,No,No,0,No,Yes,0.873691138,67,6,1,3,2
+Newfoundland and Labrador,Atlantic,Yes,No,120,18-24,High school,Caucasians,Women,4,"$19,999 or less",Prefer not to answer,Yes,Yes,-1,No,Yes,0.580221615,60,8,-2,3,3
+Ontario,Ontario,No,No,102,65+,College,Caucasians,Women,2,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.911329469,80,5,0,2,1
+Qu�bec,Qu�bec,No,No,88,35-44,University,Caucasians,Men,1,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.948967801,95,3,2,3,1
+Ontario,Ontario,No,No,73,45-54,University,Others,Men,2,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.948967801,83,3,1,2,1
+Ontario,Ontario,Yes,No,114,25-34,University,Others,Women,4,"$100,000-$119,999",Increased,No,No,2,No,Yes,0.948967801,90,4,2,2,1
+Saskatchewan,Prairies,Yes,New,115,55-64,High school,Caucasians,Men,3,"$20,000-$39,999",Decreased,Yes,Yes,0,No,No,0.784964,74,8,-1,4,3
+British Columbia,British Columbia,No,No,119,65+,University,Caucasians,Women,5,"$40,000-$59,000",Decreased,No,No,-1,No,Yes,0.540124075,60,8,0,4,2
+British Columbia,British Columbia,Yes,No,103,18-24,High school,Others,Men,5,"$100,000-$119,999",Prefer not to answer,No,No,-1,No,No,0.873691138,41,9,-1,4,4
+Qu�bec,Qu�bec,Yes,No,102,45-54,College,Caucasians,Men,3,"$80,000-$99,999",Increased,No,No,0,No,Yes,0.948967801,91,4,2,1,1
+Qu�bec,Qu�bec,Yes,No,61,35-44,High school,Caucasians,Men,2,"$120,000 or more",Stayed the same,No,Yes,-2,No,Yes,0.829327569,80,7,-1,4,2
+Saskatchewan,Prairies,No,No,62,25-34,College,Caucasians,Women,1,"$40,000-$59,000",Decreased,No,No,0,No,Yes,0.948967801,80,3,0,2,1
+Ontario,Ontario,Yes,No,72,35-44,College,Caucasians,Men,4,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.911329469,80,6,0,2,2
+Ontario,Ontario,No,No,56,65+,University,Caucasians,Women,2,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.948967801,85,3,2,1,1
+British Columbia,British Columbia,No,No,74,65+,College,Others,Women,2,"$60,000-$79,999",Increased,No,Yes,-1,No,Yes,0.866965901,75,4,0,3,2
+Newfoundland and Labrador,Atlantic,No,Loss,118,55-64,High school,Caucasians,Women,2,"$120,000 or more",Increased,No,No,-1,No,Yes,0.847508638,60,4,0,3,2
+Alberta,Prairies,No,No,96,55-64,University,Caucasians,Men,1,"$60,000-$79,999",Stayed the same,No,No,0,No,Yes,0.904604232,90,5,1,2,1
+Ontario,Ontario,Yes,Loss,79,45-54,University,Others,Men,4,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.948967801,89,5,0,2,1
+Qu�bec,Qu�bec,No,No,56,35-44,University,Caucasians,Women,1,"$100,000-$119,999",Decreased,Yes,Yes,2,No,Yes,0.723951801,51,8,0,4,2
+Ontario,Ontario,No,No,92,35-44,University,Caucasians,Women,3,"$120,000 or more",Decreased,No,No,-1,No,Yes,0.866965901,90,4,2,3,2
+Ontario,Ontario,No,No,101,65+,High school,Caucasians,Women,1,"$80,000-$99,999",Decreased,No,No,0,No,Yes,0.866965901,80,7,-1,3,1
+New Brunswick,Atlantic,No,No,34,35-44,University,Caucasians,Men,1,"$60,000-$79,999",Increased,No,Yes,-2,No,No,0.873691138,68,7,-1,3,3
+Qu�bec,Qu�bec,No,No,105,35-44,High school,Caucasians,Women,3,"$100,000-$119,999",Stayed the same,No,No,-1,Yes,Yes,0.948967801,79,9,0,2,1
+Ontario,Ontario,No,No,79,45-54,University,Others,Women,4,"$120,000 or more",Stayed the same,Yes,No,-1,No,Yes,0.948967801,92,6,-1,4,1
+Ontario,Ontario,No,No,57,55-64,College,Others,Men,6,"$120,000 or more",Prefer not to answer,No,No,0,No,Yes,0.911329469,95,4,1,2,1
+Qu�bec,Qu�bec,No,No,89,65+,University,Caucasians,Men,1,"$120,000 or more",Decreased,Yes,No,-1,No,Yes,0.726638801,76,8,-1,3,2
+Ontario,Ontario,No,No,90,45-54,University,Caucasians,Men,1,"$80,000-$99,999",Increased,No,No,1,No,Yes,0.911329469,63,5,0,3,1
+Ontario,Ontario,No,No,92,65+,College,Caucasians,Men,2,"$60,000-$79,999",Stayed the same,No,No,0,No,Yes,0.948967801,81,3,1,2,1
+Qu�bec,Qu�bec,Yes,No,108,55-64,University,Caucasians,Men,1,"$60,000-$79,999",Stayed the same,No,No,-1,No,No,0.847508638,65,9,0,2,2
+Ontario,Ontario,Yes,No,113,18-24,High school,Caucasians,Women,6,"$60,000-$79,999",Decreased,Yes,Yes,-1,No,No,0.872414944,78,9,-1,4,3
+New Brunswick,Atlantic,Yes,No,106,45-54,High school,Caucasians,Women,1,"$20,000-$39,999",Stayed the same,No,No,0,No,Yes,0.860240664,69,3,0,2,1
+Ontario,Ontario,Yes,No,116,65+,College,Caucasians,Men,2,"$80,000-$99,999",Decreased,No,No,-1,No,No,0.764277133,50,7,-1,1,2
+Ontario,Ontario,Yes,New,119,45-54,University,Caucasians,Men,4,"$120,000 or more",Decreased,No,No,-1,No,Yes,0.948967801,86,3,1,4,1
+Alberta,Prairies,Yes,No,119,65+,College,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,No,No,-1,No,Yes,0.828097965,80,3,0,2,2
+Saskatchewan,Prairies,Yes,No,110,25-34,University,Caucasians,Men,4,"$20,000-$39,999",Decreased,No,No,-1,No,Yes,0.904604232,84,4,1,2,2
+Qu�bec,Qu�bec,Yes,No,115,65+,College,Caucasians,Men,2,"$40,000-$59,000",Decreased,No,No,0,No,No,0.769772766,50,6,-1,3,2
+British Columbia,British Columbia,Yes,Loss,84,25-34,College,Caucasians,Women,4,"$80,000-$99,999",Stayed the same,No,No,-1,No,Yes,0.911329469,78,5,0,3,1
+Ontario,Ontario,Yes,No,116,65+,University,Caucasians,Women,2,"$60,000-$79,999",Stayed the same,No,Yes,1,No,Yes,0.866965901,89,3,1,2,2
+Qu�bec,Qu�bec,Yes,No,99,45-54,University,Caucasians,Men,3,"$120,000 or more",Decreased,No,No,0,No,No,0.829327569,96,6,-1,3,3
+Ontario,Ontario,No,No,72,45-54,University,Others,Women,2,"$100,000-$119,999",Stayed the same,No,No,0,No,Yes,0.860240664,71,3,1,2,1
+Ontario,Ontario,No,No,77,35-44,University,Others,Women,1,"$60,000-$79,999",Stayed the same,No,No,-1,No,Yes,0.948967801,86,6,0,2,1
+Manitoba,Prairies,Yes,No,103,65+,College,Caucasians,Women,2,"$100,000-$119,999",Decreased,No,No,0,No,Yes,0.904604232,85,3,0,3,1
+Ontario,Ontario,Yes,No,78,55-64,College,Caucasians,Men,2,"$19,999 or less",Stayed the same,No,No,0,No,Yes,0.763047529,75,3,2,1,1
+British Columbia,British Columbia,No,No,93,55-64,Before high school,Caucasians,Women,2,"$120,000 or more",Increased,No,No,-1,No,Yes,0.764277133,89,3,-1,3,2
+British Columbia,British Columbia,Yes,Loss,107,35-44,University,Caucasians,Women,1,"$60,000-$79,999",Stayed the same,No,No,0,No,Yes,0.866965901,89,6,0,2,1
+Ontario,Ontario,No,No,111,65+,University,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,No,No,0,No,No,0.707181538,41,7,0,3,2
+Manitoba,Prairies,Yes,No,89,55-64,College,Caucasians,Women,2,"$40,000-$59,000",Decreased,No,No,0,Yes,Yes,0.911329469,90,6,0,2,1
+Ontario,Ontario,Yes,No,97,45-54,University,Caucasians,Women,3,"$60,000-$79,999",Increased,No,No,-1,No,Yes,0.911329469,76,6,0,4,3
+Qu�bec,Qu�bec,No,No,32,45-54,College,Caucasians,Men,7,"$20,000-$39,999",Decreased,No,No,0,No,Yes,0.948967801,100,3,2,1,1
+Qu�bec,Qu�bec,No,No,72,35-44,College,Caucasians,Men,5,"$60,000-$79,999",Do not know,No,No,1,No,Yes,0.948967801,84,6,0,3,1
+Ontario,Ontario,No,No,71,18-24,High school,Caucasians,Men,4,"$80,000-$99,999",Prefer not to answer,No,No,-1,No,No,0.708315443,60,8,-2,4,4
+Ontario,Ontario,Yes,No,74,25-34,University,Others,Men,3,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.873691138,60,6,0,3,2
+Ontario,Ontario,Yes,No,66,35-44,University,Others,Men,8,"$120,000 or more",Decreased,No,No,2,No,Yes,0.948967801,80,5,1,3,1
+Ontario,Ontario,Yes,No,90,45-54,College,Others,Women,2,"$60,000-$79,999",Decreased,No,No,-1,No,No,0.866965901,59,8,0,3,1
+Ontario,Ontario,Yes,No,91,35-44,University,Caucasians,Men,4,"$120,000 or more",Increased,No,No,-1,No,No,0.911329469,72,7,-1,3,1
+Alberta,Prairies,Yes,Loss,117,45-54,College,Caucasians,Women,2,"$20,000-$39,999",Decreased,No,No,-1,No,No,0.829327569,60,6,-1,3,3
+Qu�bec,Qu�bec,No,No,104,35-44,College,Caucasians,Men,3,"$19,999 or less",Stayed the same,No,Yes,0,No,Yes,0.872461534,70,7,0,2,1
+Qu�bec,Qu�bec,No,Loss,110,35-44,University,Caucasians,Women,2,"$120,000 or more",Stayed the same,No,Yes,0,No,Yes,0.873691138,75,3,1,4,2
+Saskatchewan,Prairies,Yes,No,72,35-44,College,Caucasians,Men,4,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.948967801,86,6,0,2,1
+Manitoba,Prairies,Yes,No,120,55-64,High school,Caucasians,Women,2,"$60,000-$79,999",Stayed the same,No,No,0,No,Yes,0.948967801,88,4,0,2,1
+Qu�bec,Qu�bec,Yes,No,118,18-24,High school,Caucasians,Women,1,"$20,000-$39,999",Increased,Yes,Yes,0,Yes,No,0.708315443,31,7,-1,2,3
+Qu�bec,Qu�bec,No,Loss,103,65+,University,Caucasians,Men,2,"$40,000-$59,000",Increased,Yes,No,-1,No,Yes,0.763047529,75,7,1,1,1
+Qu�bec,Qu�bec,Yes,No,111,55-64,High school,Caucasians,Men,2,"$20,000-$39,999",Stayed the same,Yes,No,0,No,No,0.885146969,80,5,1,2,1
+Qu�bec,Qu�bec,No,No,68,45-54,College,Caucasians,Men,1,"$80,000-$99,999",Stayed the same,No,No,-1,No,Yes,0.829327569,69,7,-1,4,2
+Qu�bec,Qu�bec,No,No,85,65+,College,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,No,No,-1,No,Yes,0.911329469,75,5,1,1,1
+Saskatchewan,Prairies,No,No,85,55-64,High school,Caucasians,Men,2,"$40,000-$59,000",Stayed the same,No,No,0,No,Yes,0.948967801,90,3,1,2,1
+Ontario,Ontario,No,No,107,45-54,College,Others,Men,5,"$40,000-$59,000",Decreased,No,No,-2,Yes,Yes,0.803145069,78,6,0,4,2
+Qu�bec,Qu�bec,Yes,New,113,45-54,University,Caucasians,Women,3,"$120,000 or more",Increased,No,No,-1,No,Yes,0.911329469,85,5,0,2,1
+Ontario,Ontario,Yes,No,95,45-54,University,Caucasians,Women,4,Prefer not to answer,Decreased,No,No,-1,No,Yes,0.904604232,76,4,0,3,1
+New Brunswick,Atlantic,Yes,No,104,45-54,College,Caucasians,Men,3,"$40,000-$59,000",Decreased,Yes,No,0,No,Yes,0.847508638,80,3,0,3,1
+Qu�bec,Qu�bec,No,No,100,35-44,University,Caucasians,Women,4,"$120,000 or more",Increased,No,No,-1,No,Yes,0.904604232,89,3,0,1,1
+British Columbia,British Columbia,Yes,No,109,55-64,University,Caucasians,Men,4,"$100,000-$119,999",Increased,No,Yes,-1,No,Yes,0.911329469,71,5,0,3,1
+Qu�bec,Qu�bec,Yes,No,94,45-54,University,Caucasians,Men,4,"$120,000 or more",Increased,No,No,0,Yes,No,0.822602332,75,3,1,3,2
+Qu�bec,Qu�bec,Yes,No,101,45-54,College,Caucasians,Men,2,"$40,000-$59,000",Increased,No,No,0,No,Yes,0.904604232,80,4,0,2,1
+Qu�bec,Qu�bec,No,No,66,65+,University,Caucasians,Women,1,"$40,000-$59,000",Stayed the same,No,No,-1,No,Yes,0.904604232,99,4,0,2,1
+Ontario,Ontario,No,No,91,65+,University,Others,Women,2,"$100,000-$119,999",Stayed the same,No,No,0,No,Yes,0.911329469,51,3,0,3,2
+Ontario,Ontario,No,No,69,45-54,University,Others,Men,4,Prefer not to answer,Stayed the same,No,No,2,No,No,0.866965901,90,6,2,3,1
+Qu�bec,Qu�bec,No,No,29,35-44,College,Caucasians,Women,2,Prefer not to answer,Stayed the same,No,No,2,No,No,0.948967801,78,5,2,1,1
+Ontario,Ontario,Yes,No,121,18-24,Before high school,Others,Women,7,"$40,000-$59,000",Decreased,No,Yes,-2,No,No,0.356482039,25,9,-2,5,4
+Qu�bec,Qu�bec,Yes,No,48,35-44,College,Caucasians,Men,3,"$120,000 or more",Decreased,Yes,No,-1,No,Yes,0.829327569,80,7,-1,3,2
+Qu�bec,Qu�bec,No,No,80,65+,Before high school,Caucasians,Men,2,"$20,000-$39,999",Stayed the same,Yes,No,0,No,Yes,0.775505172,71,4,1,3,2
+Qu�bec,Qu�bec,Yes,No,72,35-44,High school,Caucasians,Men,2,"$20,000-$39,999",Prefer not to answer,No,No,1,No,Yes,0.911329469,85,6,-1,3,2
+Alberta,Prairies,Yes,Loss,75,25-34,University,Others,Men,5,"$100,000-$119,999",Increased,Yes,Yes,2,Yes,Yes,0.27141521,89,7,2,4,4
+Qu�bec,Qu�bec,No,No,82,55-64,High school,Caucasians,Women,2,"$80,000-$99,999",Stayed the same,No,No,0,No,No,0.866965901,79,3,1,4,2
+Ontario,Ontario,Yes,No,116,45-54,University,Caucasians,Women,4,"$120,000 or more",Stayed the same,No,No,2,No,Yes,0.948967801,94,6,1,2,1
+Alberta,Prairies,No,No,109,65+,High school,Caucasians,Women,1,"$60,000-$79,999",Decreased,No,No,0,No,Yes,0.801915465,92,4,0,2,1
+British Columbia,British Columbia,No,No,102,55-64,High school,Others,Men,1,"$40,000-$59,000",Decreased,No,Yes,-1,No,No,0.829327569,69,9,-2,2,2
+British Columbia,British Columbia,No,No,68,65+,College,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.846279033,79,4,1,2,1
+Ontario,Ontario,Yes,No,81,35-44,High school,Caucasians,Men,3,"$100,000-$119,999",Increased,No,No,0,No,Yes,0.948967801,86,3,1,3,1
+Qu�bec,Qu�bec,No,No,67,65+,University,Caucasians,Men,2,Prefer not to answer,Stayed the same,No,No,-1,No,Yes,0.723951801,62,4,-1,2,1
+Ontario,Ontario,No,No,80,35-44,University,Others,Women,4,"$60,000-$79,999",Prefer not to answer,No,Yes,-1,No,No,0.808640702,71,6,-1,3,3
+Ontario,Ontario,Yes,No,79,55-64,University,Caucasians,Men,2,"$120,000 or more",Increased,No,No,0,No,Yes,0.904604232,97,4,2,2,1
+British Columbia,British Columbia,No,No,87,18-24,High school,Others,Women,6,Prefer not to answer,Prefer not to answer,No,No,0,Yes,No,0.911329469,80,6,0,3,2
+British Columbia,British Columbia,Yes,No,109,65+,College,Caucasians,Men,2,Prefer not to answer,Stayed the same,No,No,0,No,Yes,0.904604232,86,4,1,2,1
+Ontario,Ontario,Yes,No,104,55-64,University,Others,Women,3,"$60,000-$79,999",Increased,No,No,0,No,Yes,0.822602332,50,6,-1,3,2
+New Brunswick,Atlantic,No,No,111,65+,High school,Caucasians,Men,1,"$80,000-$99,999",Stayed the same,Yes,No,0,No,Yes,0.6977693,33,4,1,2,1
+British Columbia,British Columbia,No,Loss,116,55-64,High school,Caucasians,Women,2,"$60,000-$79,999",Stayed the same,No,No,-1,No,Yes,0.911329469,99,6,0,2,1
+Ontario,Ontario,Yes,No,115,25-34,University,Others,Other or did not answer,4,"$60,000-$79,999",Prefer not to answer,No,Yes,1,No,No,0.790459633,78,9,-1,3,3
+Ontario,Ontario,No,No,90,25-34,College,Others,Other or did not answer,2,"$80,000-$99,999",Prefer not to answer,No,No,1,No,Yes,0.948967801,78,3,2,4,1
+Yukon,Prairies,Yes,Loss,96,65+,University,Caucasians,Men,3,"$80,000-$99,999",Stayed the same,No,No,-1,No,Yes,0.726638801,60,4,0,3,2
+British Columbia,British Columbia,No,No,85,45-54,University,Others,Women,2,"$120,000 or more",Stayed the same,No,No,-2,No,No,0.866965901,70,4,-1,4,2
+Alberta,Prairies,No,No,70,65+,High school,Caucasians,Women,2,Prefer not to answer,Stayed the same,No,No,0,No,Yes,0.865736296,94,3,1,1,1
+Saskatchewan,Prairies,No,No,100,65+,High school,Caucasians,Women,2,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.846279033,70,6,0,2,1
+Alberta,Prairies,No,No,19,65+,High school,Caucasians,Men,1,"$40,000-$59,000",Increased,No,No,0,No,No,0.904604232,37,7,1,2,1
+Ontario,Ontario,No,No,78,35-44,College,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.948967801,90,3,1,1,1
+Qu�bec,Qu�bec,Yes,No,107,45-54,University,Caucasians,Women,5,"$120,000 or more",Increased,No,No,0,No,Yes,0.904604232,77,6,1,2,1
+Nova Scotia,Atlantic,No,Loss,121,35-44,University,Caucasians,Women,3,"$120,000 or more",Increased,No,No,0,No,Yes,0.911329469,71,5,1,3,1
+Alberta,Prairies,Yes,No,97,35-44,High school,Others,Men,3,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.911329469,74,5,0,4,1
+Ontario,Ontario,No,No,72,45-54,College,Caucasians,Women,3,"$40,000-$59,000",Stayed the same,No,No,0,No,Yes,0.948967801,99,3,2,3,1
+Ontario,Ontario,No,No,64,65+,University,Others,Women,2,"$60,000-$79,999",Stayed the same,Yes,No,0,No,Yes,0.826868361,72,3,1,2,1
+Alberta,Prairies,Yes,Loss,113,18-24,High school,Others,Women,5,Prefer not to answer,Stayed the same,No,Yes,0,No,No,0.873691138,71,7,0,3,2
+British Columbia,British Columbia,No,No,86,25-34,University,Others,Women,4,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.829327569,76,5,-1,2,1
+Qu�bec,Qu�bec,No,No,72,65+,University,Caucasians,Men,2,"$120,000 or more",Increased,No,No,0,No,Yes,0.948967801,83,4,1,2,1
+Qu�bec,Qu�bec,No,Loss,124,18-24,Before high school,Caucasians,Women,4,"$19,999 or less",Increased,No,Yes,-2,No,Yes,0.442799022,79,7,-1,2,2
+British Columbia,British Columbia,No,No,72,35-44,College,Others,Men,8,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.948967801,92,3,1,2,1
+New Brunswick,Atlantic,Yes,No,102,18-24,University,Caucasians,Women,5,"$80,000-$99,999",Decreased,No,No,-1,No,No,0.891872206,69,7,0,2,1
+Ontario,Ontario,Yes,No,114,25-34,College,Caucasians,Women,4,Prefer not to answer,Stayed the same,Yes,Yes,-1,No,Yes,0.708315443,60,3,-2,4,4
+Saskatchewan,Prairies,Yes,No,108,45-54,University,Caucasians,Women,6,"$120,000 or more",Increased,No,No,0,No,Yes,0.948967801,79,6,1,2,1
+Ontario,Ontario,No,No,71,25-34,University,Others,Women,2,Prefer not to answer,Stayed the same,No,No,-1,No,Yes,0.873691138,73,5,0,1,1
+British Columbia,British Columbia,No,No,71,45-54,College,Others,Women,1,"$60,000-$79,999",Stayed the same,No,No,0,No,Yes,0.911329469,80,6,0,3,2
+British Columbia,British Columbia,No,No,72,45-54,College,Caucasians,Women,3,"$20,000-$39,999",Decreased,No,No,0,No,No,0.948967801,90,9,0,3,3
+Qu�bec,Qu�bec,No,No,98,55-64,High school,Caucasians,Men,2,"$40,000-$59,000",Stayed the same,No,No,0,No,Yes,0.866965901,60,5,0,2,1
+Qu�bec,Qu�bec,Yes,No,102,45-54,College,Caucasians,Women,3,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.866965901,87,6,1,2,1
+Qu�bec,Qu�bec,Yes,No,111,35-44,University,Others,Men,2,"$60,000-$79,999",Increased,No,No,-1,No,Yes,0.911329469,81,6,0,3,2
+Nova Scotia,Atlantic,Yes,No,126,45-54,University,Caucasians,Women,2,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.911329469,60,4,-1,3,2
+Alberta,Prairies,No,No,83,55-64,University,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.904604232,74,6,1,2,1
+Ontario,Ontario,Yes,No,97,45-54,College,Caucasians,Women,3,"$80,000-$99,999",Increased,No,Yes,0,No,Yes,0.866965901,91,5,1,1,1
+Qu�bec,Qu�bec,No,No,87,35-44,University,Caucasians,Men,3,"$80,000-$99,999",Decreased,No,No,-1,No,Yes,0.904604232,88,4,0,3,2
+Saskatchewan,Prairies,No,No,76,45-54,University,Caucasians,Men,1,"$40,000-$59,000",Stayed the same,No,No,0,No,Yes,0.948967801,80,3,0,2,1
+Qu�bec,Qu�bec,No,No,91,55-64,University,Caucasians,Men,2,"$120,000 or more",Stayed the same,No,No,1,No,Yes,0.948967801,95,3,1,2,1
+Ontario,Ontario,No,No,85,65+,College,Caucasians,Women,2,"$20,000-$39,999",Stayed the same,No,No,0,No,Yes,0.911329469,81,4,0,3,1
+Ontario,Ontario,No,No,67,45-54,High school,Others,Women,2,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.948967801,71,3,0,2,1
+Qu�bec,Qu�bec,Yes,No,95,25-34,University,Caucasians,Men,4,"$100,000-$119,999",Stayed the same,No,No,0,No,Yes,0.829327569,59,3,1,3,1
+Ontario,Ontario,No,No,105,55-64,College,Caucasians,Men,2,"$80,000-$99,999",Decreased,Yes,No,-1,No,Yes,0.769772766,60,4,-1,3,1
+British Columbia,British Columbia,No,No,118,35-44,University,Caucasians,Women,2,Prefer not to answer,Stayed the same,No,No,0,Yes,Yes,0.948967801,100,3,1,2,1
+Qu�bec,Qu�bec,Yes,Loss,83,25-34,University,Others,Men,3,"$60,000-$79,999",Stayed the same,Yes,Yes,1,Yes,Yes,0.666856206,79,8,2,4,4
+Ontario,Ontario,Yes,No,124,45-54,University,Caucasians,Women,2,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.948967801,75,3,0,1,1
+Saskatchewan,Prairies,Yes,Loss,73,35-44,University,Caucasians,Men,3,"$60,000-$79,999",Increased,Yes,No,1,Yes,No,0.807183305,31,6,2,2,2
+British Columbia,British Columbia,No,No,116,65+,High school,Caucasians,Men,1,"$40,000-$59,000",Stayed the same,No,No,-1,No,Yes,0.890642602,70,3,0,2,1
+Qu�bec,Qu�bec,No,No,101,45-54,High school,Caucasians,Men,3,"$60,000-$79,999",Stayed the same,Yes,Yes,0,No,Yes,0.865736296,91,6,1,2,1
+Ontario,Ontario,No,No,58,65+,University,Caucasians,Women,2,Prefer not to answer,Prefer not to answer,No,No,-1,No,Yes,0.911329469,73,6,-1,2,2
+Qu�bec,Qu�bec,No,No,99,55-64,High school,Caucasians,Men,1,"$40,000-$59,000",Decreased,No,No,0,No,Yes,0.948967801,80,5,1,1,1
+Ontario,Ontario,Yes,No,114,55-64,University,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,Yes,No,0,No,Yes,0.761860597,40,4,1,1,1
+Ontario,Ontario,Yes,No,99,45-54,High school,Caucasians,Men,1,"$19,999 or less",Stayed the same,No,No,-1,No,No,0.523811295,70,5,-1,4,2
+Ontario,Ontario,Yes,No,72,35-44,College,Others,Men,1,"$40,000-$59,000",Increased,No,No,0,No,Yes,0.948967801,81,4,1,2,1
+Ontario,Ontario,Yes,No,119,55-64,University,Caucasians,Men,4,"$120,000 or more",Increased,No,No,-1,No,Yes,0.911329469,91,3,1,2,1
+Alberta,Prairies,No,No,109,55-64,College,Caucasians,Women,1,"$20,000-$39,999",Prefer not to answer,Yes,Yes,-1,No,Yes,-0.006336925,25,9,-1,4,3
+Qu�bec,Qu�bec,Yes,No,99,35-44,University,Caucasians,Men,5,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.866965901,50,6,0,3,1
+Qu�bec,Qu�bec,Yes,No,121,35-44,College,Caucasians,Women,4,"$100,000-$119,999",Stayed the same,No,No,-1,No,Yes,0.911329469,80,7,0,2,1
+Ontario,Ontario,Yes,Loss,86,18-24,High school,Others,Women,1,"$20,000-$39,999",Increased,No,No,0,No,Yes,0.948967801,90,4,0,2,1
+Ontario,Ontario,No,No,76,25-34,University,Others,Men,3,"$120,000 or more",Decreased,No,No,-1,No,Yes,0.948967801,75,4,0,3,1
+Ontario,Ontario,No,No,74,45-54,College,Others,Men,2,"$120,000 or more",Stayed the same,No,No,0,No,No,0.866965901,70,5,0,3,1
+Ontario,Ontario,Yes,No,110,45-54,University,Caucasians,Women,2,"$60,000-$79,999",Increased,No,Yes,-1,No,No,0.911329469,71,6,0,2,1
+Prince Edward Island,Atlantic,Yes,No,86,35-44,College,Caucasians,Women,4,"$100,000-$119,999",Stayed the same,No,No,0,No,No,0.866965901,84,5,0,3,1
+Manitoba,Prairies,No,No,101,65+,College,Others,Women,1,"$20,000-$39,999",Stayed the same,No,Yes,-1,No,Yes,0.726638801,46,8,0,3,2
+Qu�bec,Qu�bec,No,No,116,65+,High school,Caucasians,Women,1,"$40,000-$59,000",Decreased,Yes,No,-1,No,Yes,0.725409197,70,7,0,3,2
+Alberta,Prairies,Yes,No,120,25-34,University,Others,Women,3,"$60,000-$79,999",Decreased,No,Yes,-1,No,Yes,0.866965901,75,6,0,4,4
+Ontario,Ontario,Yes,No,106,18-24,High school,Caucasians,Women,4,"$80,000-$99,999",Decreased,No,Yes,-1,No,Yes,0.911329469,89,6,-1,3,1
+Nova Scotia,Atlantic,Yes,No,90,45-54,High school,Caucasians,Men,1,"$80,000-$99,999",Increased,No,No,0,No,No,0.866965901,80,4,0,2,1
+Qu�bec,Qu�bec,Yes,New,115,45-54,College,Caucasians,Men,2,"$120,000 or more",Decreased,No,Yes,1,No,Yes,0.764277133,71,7,1,3,1
+Ontario,Ontario,No,No,49,35-44,University,Others,Women,2,"$100,000-$119,999",Increased,No,No,0,No,Yes,0.948967801,90,3,0,2,1
+Ontario,Ontario,No,No,66,35-44,College,Caucasians,Men,6,"$40,000-$59,000",Stayed the same,No,No,-1,No,Yes,0.644494611,60,4,-1,3,1
+Qu�bec,Qu�bec,No,No,93,55-64,High school,Caucasians,Men,1,"$40,000-$59,000",Stayed the same,Yes,No,-1,No,No,0.846279033,81,6,0,2,1
+Qu�bec,Qu�bec,Yes,No,54,65+,University,Caucasians,Women,1,"$40,000-$59,000",Stayed the same,No,No,0,No,Yes,0.904604232,80,3,1,1,1
+Ontario,Ontario,No,No,126,55-64,High school,Caucasians,Women,6,Prefer not to answer,Decreased,No,No,-1,No,Yes,0.651948335,41,5,-1,4,1
+New Brunswick,Atlantic,Yes,New,89,35-44,University,Caucasians,Women,3,"$60,000-$79,999",Stayed the same,No,No,0,No,Yes,0.904604232,67,3,1,3,1
+Manitoba,Prairies,No,No,120,18-24,High school,Others,Men,5,"$40,000-$59,000",Stayed the same,No,No,0,No,Yes,0.948967801,70,3,0,2,1
+Manitoba,Prairies,No,No,106,55-64,College,Caucasians,Women,2,"$40,000-$59,000",Stayed the same,No,Yes,-2,No,Yes,0.586169412,50,8,-2,1,1
+Alberta,Prairies,No,No,77,65+,University,Others,Men,2,Prefer not to answer,Decreased,Yes,No,0,No,No,0.743590266,71,6,0,3,2
+Qu�bec,Qu�bec,Yes,No,107,25-34,High school,Caucasians,Women,3,"$20,000-$39,999",Stayed the same,No,Yes,1,No,No,0.866965901,69,7,0,4,3
+British Columbia,British Columbia,No,No,72,55-64,College,Others,Men,1,"$19,999 or less",Prefer not to answer,Yes,Yes,0,No,Yes,0.866965901,61,6,1,3,1
+Saskatchewan,Prairies,No,No,102,35-44,University,Others,Women,3,"$60,000-$79,999",Increased,No,Yes,-1,No,Yes,0.822602332,81,4,-1,3,2
+Qu�bec,Qu�bec,No,No,91,65+,University,Caucasians,Women,1,"$120,000 or more",Stayed the same,No,No,0,No,No,0.911329469,100,7,1,3,1
+Ontario,Ontario,Yes,No,95,25-34,High school,Caucasians,Men,7,"$20,000-$39,999",Decreased,No,Yes,-2,No,No,0.502937908,63,8,-2,4,4
+British Columbia,British Columbia,No,No,86,65+,College,Caucasians,Women,1,"$40,000-$59,000",Stayed the same,No,No,-1,No,No,0.866965901,80,7,-1,3,1
+Ontario,Ontario,Yes,No,112,35-44,College,Caucasians,Women,4,"$20,000-$39,999",Decreased,No,No,-1,No,Yes,0.847508638,71,3,-1,3,3
+Ontario,Ontario,No,No,72,25-34,University,Others,Men,2,"$100,000-$119,999",Stayed the same,No,No,0,No,Yes,0.948967801,73,6,0,3,2
+Ontario,Ontario,Yes,No,113,65+,College,Caucasians,Men,2,"$60,000-$79,999",Decreased,No,No,0,No,Yes,0.860240664,92,4,0,2,1
+Qu�bec,Qu�bec,Yes,Loss,69,45-54,University,Caucasians,Women,2,"$120,000 or more",Increased,No,No,0,No,Yes,0.858783267,63,5,0,2,1
+Qu�bec,Qu�bec,No,No,89,18-24,University,Caucasians,Women,4,"$80,000-$99,999",Decreased,No,Yes,1,No,Yes,0.873691138,93,3,-1,2,3
+Ontario,Ontario,Yes,No,118,35-44,University,Caucasians,Women,4,"$120,000 or more",Stayed the same,Yes,No,-1,No,Yes,0.911329469,76,5,1,4,2
+Qu�bec,Qu�bec,Yes,No,117,35-44,University,Caucasians,Women,2,"$120,000 or more",Increased,No,Yes,1,No,Yes,0.801915465,76,3,0,3,2
+Ontario,Ontario,No,No,31,55-64,High school,Caucasians,Women,1,"$20,000-$39,999",Stayed the same,No,No,0,No,Yes,0.904604232,85,5,1,1,1
+Ontario,Ontario,Yes,No,122,45-54,College,Others,Men,4,Prefer not to answer,Increased,No,Yes,-1,No,Yes,0.829327569,65,9,-1,4,3
+Ontario,Ontario,Yes,No,122,45-54,College,Caucasians,Men,1,"$80,000-$99,999",Increased,No,No,-1,No,No,0.808640702,78,9,0,2,2
+Qu�bec,Qu�bec,Yes,No,102,45-54,High school,Caucasians,Women,1,"$40,000-$59,000",Decreased,No,No,0,No,No,0.911329469,72,7,0,2,1
+Nova Scotia,Atlantic,No,Loss,94,45-54,High school,Caucasians,Men,2,"$100,000-$119,999",Stayed the same,Yes,No,0,No,Yes,0.74481987,30,3,-1,3,2
+Qu�bec,Qu�bec,No,No,84,65+,University,Caucasians,Men,2,Prefer not to answer,Decreased,No,No,0,No,Yes,0.865736296,95,5,1,3,1
+Alberta,Prairies,Yes,No,76,45-54,College,Caucasians,Men,4,"$120,000 or more",Decreased,No,No,-1,No,Yes,0.948967801,84,3,1,1,1
+Newfoundland and Labrador,Atlantic,Yes,No,74,45-54,University,Caucasians,Men,2,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.904604232,96,4,2,2,1
+British Columbia,British Columbia,No,No,108,25-34,University,Caucasians,Men,2,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.948967801,92,4,1,2,1
+Qu�bec,Qu�bec,No,No,99,65+,University,Caucasians,Women,2,"$80,000-$99,999",Stayed the same,No,No,-1,No,Yes,0.904604232,92,3,1,3,1
+Nova Scotia,Atlantic,Yes,No,126,25-34,High school,Caucasians,Men,4,"$60,000-$79,999",Stayed the same,No,No,2,Yes,Yes,0.948967801,87,3,1,3,2
+Ontario,Ontario,Yes,No,79,35-44,University,Caucasians,Men,4,"$120,000 or more",Decreased,No,No,-1,No,Yes,0.626313543,60,6,0,5,4
+Ontario,Ontario,No,No,86,18-24,University,Others,Women,3,Prefer not to answer,Decreased,No,No,1,No,Yes,0.904604232,85,5,1,2,1
+Alberta,Prairies,No,No,107,45-54,High school,Caucasians,Men,2,"$80,000-$99,999",Decreased,No,No,0,No,No,0.948967801,85,3,1,3,1
+Ontario,Ontario,No,No,66,45-54,University,Others,Women,4,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.866965901,80,6,0,3,2
+Qu�bec,Qu�bec,Yes,New,95,18-24,High school,Others,Women,3,Prefer not to answer,Do not know,No,No,-1,No,No,0.670677111,39,9,-1,4,4
+Qu�bec,Qu�bec,No,No,102,65+,University,Caucasians,Men,2,Prefer not to answer,Stayed the same,No,No,-1,No,Yes,0.885146969,79,3,1,2,1
+Qu�bec,Qu�bec,Yes,No,122,55-64,University,Caucasians,Men,2,"$20,000-$39,999",Stayed the same,No,No,0,Yes,Yes,0.904604232,91,3,2,2,1
+Qu�bec,Qu�bec,No,Loss,72,25-34,University,Caucasians,Women,1,"$60,000-$79,999",Stayed the same,No,Yes,0,No,Yes,0.784964,58,6,0,4,3
+Alberta,Prairies,Yes,No,123,65+,College,Caucasians,Women,3,"$120,000 or more",Stayed the same,Yes,Yes,-1,No,Yes,0.456664778,49,5,0,3,2
+Ontario,Ontario,No,No,59,65+,College,Caucasians,Men,2,"$60,000-$79,999",Stayed the same,Yes,Yes,0,No,Yes,0.732134434,68,4,1,2,1
+Alberta,Prairies,No,No,103,65+,High school,Caucasians,Women,2,"$20,000-$39,999",Stayed the same,No,No,0,No,Yes,0.948967801,90,3,1,2,1
+Ontario,Ontario,Yes,Loss,96,18-24,University,Caucasians,Women,2,"$100,000-$119,999",Increased,No,No,-1,No,Yes,0.948967801,77,4,1,3,1
+Qu�bec,Qu�bec,Yes,No,121,55-64,University,Caucasians,Women,3,Prefer not to answer,Stayed the same,No,No,0,No,Yes,0.948967801,100,4,2,1,1
+Ontario,Ontario,No,No,80,25-34,University,Others,Men,5,"$100,000-$119,999",Decreased,No,No,-1,No,No,0.829327569,61,6,-1,4,4
+Alberta,Prairies,No,No,121,45-54,University,Caucasians,Women,1,Prefer not to answer,Decreased,No,No,1,No,Yes,0.860240664,70,6,0,4,1
+British Columbia,British Columbia,No,No,112,45-54,University,Others,Men,3,"$80,000-$99,999",Decreased,No,No,0,No,Yes,0.904604232,95,3,1,2,1
+British Columbia,British Columbia,No,No,114,45-54,University,Caucasians,Women,5,"$80,000-$99,999",Stayed the same,No,Yes,0,No,Yes,0.873691138,90,5,0,2,3
+Alberta,Prairies,Yes,No,117,65+,Before high school,Caucasians,Women,3,"$20,000-$39,999",Decreased,Yes,No,0,No,No,0.803145069,70,9,0,3,2
+Ontario,Ontario,Yes,No,121,55-64,College,Caucasians,Women,1,"$120,000 or more",Decreased,No,Yes,-1,No,Yes,0.541353679,41,5,-1,4,4
+Qu�bec,Qu�bec,Yes,No,93,65+,University,Caucasians,Men,1,"$20,000-$39,999",Stayed the same,No,No,-1,No,Yes,0.765506737,70,6,0,3,3
+Ontario,Ontario,No,No,64,35-44,University,Others,Men,5,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.948967801,83,5,0,2,1
+Qu�bec,Qu�bec,Yes,No,78,45-54,University,Caucasians,Women,3,"$100,000-$119,999",Stayed the same,No,No,-1,No,Yes,0.911329469,86,6,0,4,1
+Qu�bec,Qu�bec,No,No,86,35-44,University,Caucasians,Women,4,"$80,000-$99,999",Stayed the same,No,Yes,0,No,Yes,0.948967801,84,4,1,3,1
+Ontario,Ontario,Yes,New,106,35-44,College,Caucasians,Women,4,"$60,000-$79,999",Decreased,Yes,Yes,-2,No,Yes,0.746049474,36,8,-2,4,4
+Qu�bec,Qu�bec,Yes,No,125,35-44,High school,Caucasians,Women,2,"$40,000-$59,000",Decreased,No,Yes,-2,No,No,0.670677111,45,7,-2,5,4
+British Columbia,British Columbia,Yes,No,110,65+,University,Caucasians,Women,2,"$60,000-$79,999",Increased,No,No,0,No,Yes,0.803145069,40,5,0,2,1
+British Columbia,British Columbia,Yes,No,115,45-54,University,Others,Women,4,Prefer not to answer,Stayed the same,No,No,0,No,Yes,0.948967801,80,3,2,2,1
+Qu�bec,Qu�bec,No,No,91,65+,High school,Caucasians,Women,1,"$20,000-$39,999",Stayed the same,No,No,-1,No,Yes,0.911329469,90,6,1,2,1
+Qu�bec,Qu�bec,No,No,64,25-34,College,Caucasians,Men,1,"$40,000-$59,000",Do not know,No,No,0,No,No,0.948967801,99,3,0,1,1
+Manitoba,Prairies,No,No,84,35-44,High school,Caucasians,Women,8,"$40,000-$59,000",Decreased,No,No,0,No,Yes,0.904604232,91,4,1,2,1
+Yukon,Prairies,No,No,52,65+,High school,Caucasians,Men,1,"$20,000-$39,999",Stayed the same,No,No,0,No,No,0.948967801,85,4,2,1,1
+Qu�bec,Qu�bec,Yes,New,104,65+,University,Caucasians,Men,2,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.866965901,83,5,1,3,1
+Newfoundland and Labrador,Atlantic,No,No,92,45-54,College,Caucasians,Women,2,"$60,000-$79,999",Stayed the same,No,No,1,No,Yes,0.948967801,80,3,1,2,1
+Qu�bec,Qu�bec,Yes,Loss,123,55-64,University,Caucasians,Women,3,"$120,000 or more",Stayed the same,No,No,0,No,No,0.904604232,90,3,2,1,1
+Alberta,Prairies,Yes,Loss,116,45-54,College,Caucasians,Men,3,"$120,000 or more",Decreased,No,No,-1,No,Yes,0.866965901,86,5,-1,4,4
+Qu�bec,Qu�bec,Yes,No,115,18-24,College,Caucasians,Women,4,"$100,000-$119,999",Increased,No,No,-2,No,Yes,0.626313543,55,6,-2,3,4
+British Columbia,British Columbia,Yes,Loss,125,55-64,High school,Caucasians,Men,2,"$60,000-$79,999",Decreased,Yes,No,0,No,Yes,0.911329469,60,6,-1,3,3
+Alberta,Prairies,Yes,No,117,45-54,College,Caucasians,Women,2,"$80,000-$99,999",Decreased,No,No,-1,No,No,0.764277133,72,6,0,3,2
+Alberta,Prairies,Yes,No,115,45-54,College,Caucasians,Men,4,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.904604232,70,4,1,2,1
+Ontario,Ontario,Yes,No,110,45-54,College,Caucasians,Men,2,"$60,000-$79,999",Increased,No,No,0,No,No,0.948967801,99,3,2,1,1
+Qu�bec,Qu�bec,Yes,No,120,55-64,Before high school,Caucasians,Women,3,Prefer not to answer,Stayed the same,No,No,0,No,Yes,0.764277133,70,3,1,3,2
+Ontario,Ontario,No,No,104,55-64,College,Caucasians,Men,2,"$60,000-$79,999",Stayed the same,Yes,No,-1,No,Yes,0.764277133,30,4,-1,3,2
+Qu�bec,Qu�bec,No,Loss,115,65+,College,Caucasians,Men,2,"$60,000-$79,999",Decreased,No,No,0,No,Yes,0.866965901,85,4,1,2,1
+Qu�bec,Qu�bec,Yes,New,111,25-34,University,Caucasians,Men,1,"$40,000-$59,000",Stayed the same,No,No,-1,No,Yes,0.911329469,69,7,0,3,1
+Alberta,Prairies,No,No,92,65+,College,Caucasians,Women,1,Prefer not to answer,Prefer not to answer,No,No,0,No,Yes,0.948967801,95,4,1,2,1
+Alberta,Prairies,No,No,86,35-44,University,Caucasians,Women,2,Prefer not to answer,Decreased,No,No,0,No,Yes,0.866965901,65,5,0,3,1
+Alberta,Prairies,No,No,72,35-44,University,Others,Men,3,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.948967801,79,6,1,2,2
+Ontario,Ontario,Yes,No,123,35-44,High school,Others,Women,1,"$40,000-$59,000",Prefer not to answer,Yes,No,2,No,Yes,0.911329469,77,7,-1,3,3
+Ontario,Ontario,Yes,No,100,55-64,High school,Caucasians,Women,3,"$40,000-$59,000",Stayed the same,No,No,0,No,Yes,0.948967801,81,6,0,3,2
+Qu�bec,Qu�bec,No,No,72,55-64,Before high school,Others,Men,1,"$19,999 or less",Prefer not to answer,No,No,0,No,No,0.948967801,79,4,0,1,1
+Ontario,Ontario,No,Loss,91,55-64,University,Caucasians,Men,3,"$80,000-$99,999",Stayed the same,No,No,-1,No,Yes,0.948967801,95,3,1,3,2
+Qu�bec,Qu�bec,No,No,64,45-54,University,Caucasians,Men,1,"$40,000-$59,000",Stayed the same,No,No,0,No,No,0.948967801,56,8,0,1,1
+Qu�bec,Qu�bec,No,Loss,95,55-64,High school,Caucasians,Women,2,"$60,000-$79,999",Stayed the same,No,No,0,No,No,0.948967801,74,6,0,3,2
+British Columbia,British Columbia,No,No,87,65+,University,Caucasians,Women,1,"$40,000-$59,000",Increased,No,No,0,No,Yes,0.866965901,90,4,1,2,1
+Ontario,Ontario,Yes,No,90,25-34,Before high school,Caucasians,Men,3,"$60,000-$79,999",Decreased,No,No,-1,No,Yes,0.911329469,82,4,0,2,1
+Ontario,Ontario,Yes,No,103,35-44,High school,Caucasians,Women,5,"$80,000-$99,999",Decreased,No,Yes,0,No,Yes,0.866965901,65,6,0,3,2
+Qu�bec,Qu�bec,Yes,No,119,55-64,High school,Caucasians,Women,2,"$80,000-$99,999",Increased,No,No,0,No,Yes,0.948967801,90,4,1,1,1
+Qu�bec,Qu�bec,Yes,No,94,35-44,University,Caucasians,Men,4,"$60,000-$79,999",Increased,No,No,0,No,Yes,0.866965901,66,6,0,3,2
+Alberta,Prairies,Yes,Loss,100,18-24,High school,Caucasians,Women,4,"$80,000-$99,999",Stayed the same,No,Yes,-1,No,Yes,0.764049341,70,4,-1,4,2
+Qu�bec,Qu�bec,No,No,34,35-44,University,Caucasians,Women,4,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.948967801,90,6,0,3,1
+Newfoundland and Labrador,Atlantic,Yes,No,107,45-54,College,Caucasians,Women,4,Prefer not to answer,Decreased,Yes,Yes,-1,No,No,0.541353679,20,6,-1,4,3
+Saskatchewan,Prairies,No,No,92,35-44,University,Caucasians,Men,2,"$20,000-$39,999",Decreased,No,No,-1,No,Yes,0.808640702,76,7,0,3,2
+Ontario,Ontario,Yes,No,84,35-44,University,Others,Men,4,"$100,000-$119,999",Prefer not to answer,No,No,-1,No,Yes,0.948967801,89,4,-1,2,1
+Qu�bec,Qu�bec,No,No,103,45-54,University,Caucasians,Men,2,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.948967801,81,3,1,2,1
+Qu�bec,Qu�bec,Yes,Loss,99,25-34,College,Caucasians,Men,2,"$40,000-$59,000",Stayed the same,No,Yes,2,No,Yes,0.866965901,79,8,0,3,1
+Alberta,Prairies,Yes,New,107,45-54,College,Caucasians,Women,2,"$20,000-$39,999",Decreased,No,Yes,-2,No,Yes,0.726638801,47,6,0,3,2
+British Columbia,British Columbia,Yes,No,99,45-54,High school,Caucasians,Women,3,"$20,000-$39,999",Decreased,No,Yes,0,No,Yes,0.911329469,80,5,0,3,1
+Alberta,Prairies,Yes,No,105,35-44,College,Caucasians,Men,5,"$100,000-$119,999",Increased,No,No,1,No,No,0.948967801,95,7,1,3,1
+New Brunswick,Atlantic,No,No,85,35-44,College,Caucasians,Men,2,"$60,000-$79,999",Stayed the same,No,No,0,No,No,0.948967801,100,6,1,2,1
+Ontario,Ontario,Yes,Loss,114,25-34,College,Others,Men,2,"$80,000-$99,999",Decreased,No,No,2,No,Yes,0.948967801,100,3,2,1,1
+New Brunswick,Atlantic,Yes,No,24,55-64,College,Caucasians,Men,2,"$60,000-$79,999",Stayed the same,No,Yes,-1,No,Yes,0.784964,74,4,-1,3,2
+Alberta,Prairies,Yes,No,82,45-54,University,Caucasians,Women,4,"$120,000 or more",Increased,No,No,-1,Yes,Yes,0.866965901,69,3,0,2,1
+Qu�bec,Qu�bec,No,No,65,55-64,College,Caucasians,Men,1,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.948967801,88,3,1,2,1
+New Brunswick,Atlantic,Yes,No,102,55-64,University,Caucasians,Men,4,"$120,000 or more",Decreased,Yes,Yes,-1,No,Yes,0.873691138,80,4,0,2,2
+Ontario,Ontario,No,No,75,35-44,University,Caucasians,Women,3,"$120,000 or more",Decreased,No,No,-2,No,No,0.873691138,70,9,-2,3,3
+Manitoba,Prairies,No,No,50,35-44,College,Caucasians,Men,4,"$120,000 or more",Decreased,No,Yes,-2,No,Yes,0.829327569,60,8,-2,5,4
+Ontario,Ontario,No,No,51,25-34,University,Others,Men,2,Prefer not to answer,Prefer not to answer,No,No,0,No,No,0.948967801,80,3,0,2,1
+British Columbia,British Columbia,No,Loss,107,25-34,College,Caucasians,Women,3,"$100,000-$119,999",Decreased,No,Yes,-1,No,Yes,0.829327569,83,5,-1,3,3
+Nova Scotia,Atlantic,Yes,No,123,35-44,College,Caucasians,Women,3,Prefer not to answer,Decreased,Yes,Yes,0,No,No,0.866965901,92,9,-1,4,3
+Ontario,Ontario,Yes,No,105,18-24,University,Others,Men,4,"$19,999 or less",Stayed the same,No,No,-1,No,No,0.840783401,60,3,-1,4,3
+Ontario,Ontario,No,No,98,35-44,University,Caucasians,Women,4,"$60,000-$79,999",Stayed the same,No,No,0,No,Yes,0.948967801,72,5,1,2,1
+Ontario,Ontario,Yes,Loss,114,25-34,College,Caucasians,Women,3,"$80,000-$99,999",Stayed the same,No,No,-1,No,Yes,0.866965901,70,6,-1,3,1
+New Brunswick,Atlantic,Yes,No,115,65+,College,Caucasians,Women,1,"$20,000-$39,999",Prefer not to answer,Yes,No,0,No,No,0.486757602,50,9,-1,3,1
+Ontario,Ontario,No,No,77,35-44,University,Others,Women,3,"$80,000-$99,999",Stayed the same,No,No,0,No,No,0.948967801,77,5,1,2,2
+Ontario,Ontario,No,No,72,35-44,University,Caucasians,Women,3,"$100,000-$119,999",Stayed the same,No,No,-1,No,Yes,0.911329469,78,3,0,3,1
+Ontario,Ontario,Yes,No,86,45-54,High school,Caucasians,Men,2,"$80,000-$99,999",Decreased,No,Yes,-1,Yes,Yes,0.866965901,70,7,-1,2,2
+Ontario,Ontario,No,No,46,65+,University,Caucasians,Men,2,"$100,000-$119,999",Stayed the same,No,No,0,No,Yes,0.948967801,80,3,1,2,1
+Qu�bec,Qu�bec,Yes,No,117,55-64,College,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,No,No,-1,No,No,0.866965901,75,5,1,2,1
+Ontario,Ontario,Yes,New,117,35-44,College,Caucasians,Women,4,"$60,000-$79,999",Increased,No,Yes,-1,No,Yes,0.784964,59,3,-1,4,4
+Qu�bec,Qu�bec,Yes,No,116,55-64,College,Caucasians,Women,3,"$60,000-$79,999",Stayed the same,No,No,0,No,Yes,0.948967801,92,3,1,2,1
+Saskatchewan,Prairies,No,No,28,45-54,University,Others,Men,4,"$80,000-$99,999",Stayed the same,No,No,0,No,Yes,0.904604232,79,3,2,2,1
+Ontario,Ontario,No,No,76,25-34,University,Caucasians,Men,6,"$20,000-$39,999",Stayed the same,No,No,-1,No,Yes,0.911329469,75,8,-1,3,1
+New Brunswick,Atlantic,Yes,No,110,25-34,University,Caucasians,Women,1,"$40,000-$59,000",Stayed the same,No,No,-1,No,Yes,0.829327569,66,5,-1,4,2
+Ontario,Ontario,No,No,100,18-24,University,Others,Women,2,"$60,000-$79,999",Prefer not to answer,No,No,1,No,Yes,0.718228375,59,7,-1,3,3
+Qu�bec,Qu�bec,Yes,No,114,65+,University,Caucasians,Women,3,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.911329469,88,4,0,3,1
+Ontario,Ontario,No,No,97,65+,High school,Caucasians,Men,2,Prefer not to answer,Stayed the same,No,No,0,No,Yes,0.904604232,86,4,1,2,1
+Qu�bec,Qu�bec,Yes,No,115,35-44,College,Caucasians,Women,1,"$20,000-$39,999",Decreased,No,Yes,1,No,Yes,0.873691138,48,6,-1,2,2
+Ontario,Ontario,Yes,No,114,35-44,University,Caucasians,Men,2,"$120,000 or more",Stayed the same,No,Yes,-1,No,No,0.834776612,60,9,-2,4,3
+British Columbia,British Columbia,Yes,New,80,35-44,College,Caucasians,Women,5,"$120,000 or more",Increased,No,Yes,0,No,Yes,0.57899201,69,3,0,4,2
+Qu�bec,Qu�bec,Yes,No,111,65+,High school,Caucasians,Women,1,Prefer not to answer,Prefer not to answer,No,Yes,-2,No,Yes,0.56675874,80,8,-1,3,4
+Qu�bec,Qu�bec,Yes,No,104,45-54,College,Caucasians,Men,4,"$120,000 or more",Decreased,No,Yes,-2,No,No,0.57045749,30,9,-1,4,3
+Ontario,Ontario,Yes,No,79,65+,University,Caucasians,Men,1,"$100,000-$119,999",Decreased,No,No,0,No,Yes,0.865736296,80,3,1,2,1
+Ontario,Ontario,Yes,No,89,25-34,University,Caucasians,Men,3,"$120,000 or more",Stayed the same,No,Yes,1,No,No,0.625037348,60,9,-1,3,4
+Alberta,Prairies,No,No,76,65+,College,Caucasians,Men,2,"$60,000-$79,999",Increased,No,No,0,No,Yes,0.904604232,80,3,1,2,1
+Alberta,Prairies,Yes,No,111,55-64,University,Caucasians,Men,2,"$120,000 or more",Stayed the same,No,No,0,No,Yes,0.948967801,80,3,1,1,1
+British Columbia,British Columbia,No,No,105,55-64,High school,Others,Women,1,"$20,000-$39,999",Decreased,No,No,-1,No,Yes,0.911329469,94,5,1,3,1
+British Columbia,British Columbia,Yes,No,113,25-34,University,Caucasians,Women,2,"$120,000 or more",Increased,No,No,-1,No,Yes,0.803145069,81,7,1,2,2
+British Columbia,British Columbia,No,No,117,65+,University,Caucasians,Men,2,"$40,000-$59,000",Decreased,No,No,-1,No,No,0.828097965,71,5,-1,3,2
+British Columbia,British Columbia,Yes,No,71,35-44,College,Caucasians,Women,3,"$20,000-$39,999",Decreased,No,No,-1,No,Yes,0.854233875,79,8,-1,4,4
+Ontario,Ontario,No,No,119,45-54,College,Others,Women,3,"$80,000-$99,999",Decreased,No,No,0,No,Yes,0.948967801,90,6,1,2,1
+Alberta,Prairies,No,No,107,25-34,University,Others,Women,4,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.911329469,78,4,0,3,1
+Qu�bec,Qu�bec,Yes,No,62,45-54,High school,Caucasians,Women,3,"$40,000-$59,000",Decreased,No,Yes,-1,No,No,0.554310077,43,8,-1,4,3
+Manitoba,Prairies,No,No,87,65+,University,Caucasians,Women,2,"$60,000-$79,999",Decreased,No,No,0,No,Yes,0.904604232,80,7,0,3,1
+Ontario,Ontario,Yes,No,85,35-44,College,Others,Men,2,Prefer not to answer,Decreased,Yes,Yes,-1,No,Yes,0.68885818,85,5,0,3,2
+Alberta,Prairies,No,No,93,35-44,University,Caucasians,Women,2,"$100,000-$119,999",Stayed the same,No,Yes,-1,No,Yes,0.866965901,78,4,-1,3,1
+Alberta,Prairies,Yes,New,104,25-34,College,Caucasians,Women,2,"$100,000-$119,999",Prefer not to answer,No,No,0,No,Yes,0.911329469,87,3,-1,1,1
+Nova Scotia,Atlantic,Yes,Loss,105,25-34,College,Caucasians,Women,3,"$120,000 or more",Stayed the same,No,Yes,1,No,Yes,0.68885818,71,4,-1,2,2
+Alberta,Prairies,No,No,91,45-54,High school,Caucasians,Men,1,Prefer not to answer,Stayed the same,No,No,-1,No,No,0.866965901,82,3,0,3,2
+Manitoba,Prairies,No,Loss,117,45-54,College,Others,Men,2,"$60,000-$79,999",Decreased,No,No,-1,No,Yes,0.948967801,62,4,0,3,1
+British Columbia,British Columbia,Yes,No,102,25-34,University,Others,Men,3,"$40,000-$59,000",Decreased,No,No,-2,Yes,No,0.579035181,9,9,-2,5,4
+Ontario,Ontario,Yes,No,96,55-64,University,Caucasians,Men,4,"$100,000-$119,999",Stayed the same,No,No,-1,No,Yes,0.911329469,80,5,0,3,1
+Ontario,Ontario,Yes,No,106,35-44,University,Caucasians,Women,2,"$100,000-$119,999",Increased,No,Yes,-2,No,No,0.437207515,40,9,-2,4,4
+Yukon,Prairies,Yes,No,119,35-44,Before high school,Caucasians,Men,1,"$20,000-$39,999",Stayed the same,Yes,Yes,0,No,No,0.523624775,40,7,0,2,4
+Ontario,Ontario,Yes,Loss,126,18-24,High school,Caucasians,Women,3,"$20,000-$39,999",Decreased,No,Yes,-1,No,Yes,0.803145069,56,3,-1,3,3
+Saskatchewan,Prairies,Yes,No,101,35-44,University,Others,Men,1,"$60,000-$79,999",Decreased,No,No,-1,No,Yes,0.866965901,87,6,1,2,1
+Alberta,Prairies,Yes,No,116,45-54,College,Caucasians,Men,4,Prefer not to answer,Decreased,No,No,-2,No,Yes,0.873691138,70,7,1,3,2
+Ontario,Ontario,No,No,72,65+,High school,Caucasians,Men,2,"$40,000-$59,000",Decreased,No,No,0,No,Yes,0.904604232,80,4,2,1,1
+British Columbia,British Columbia,No,No,111,25-34,University,Caucasians,Women,3,"$100,000-$119,999",Decreased,No,Yes,0,No,Yes,0.637317209,94,4,0,3,2
+Qu�bec,Qu�bec,Yes,Loss,84,25-34,High school,Caucasians,Men,2,"$80,000-$99,999",Stayed the same,No,Yes,1,No,Yes,0.873691138,60,6,0,4,3
+Ontario,Ontario,No,No,91,35-44,University,Others,Men,1,"$40,000-$59,000",Stayed the same,Yes,No,1,No,Yes,0.948967801,95,4,1,2,1
+Newfoundland and Labrador,Atlantic,No,No,76,35-44,High school,Caucasians,Women,3,"$80,000-$99,999",Increased,No,Yes,1,No,No,0.911329469,80,5,0,3,2
+Ontario,Ontario,No,No,115,35-44,University,Caucasians,Men,3,"$120,000 or more",Stayed the same,No,No,-1,No,Yes,0.948967801,88,5,-1,2,1
+Ontario,Ontario,No,No,123,55-64,College,Caucasians,Women,2,"$40,000-$59,000",Stayed the same,No,No,-1,Yes,Yes,0.948967801,88,6,1,2,1
+British Columbia,British Columbia,No,No,110,35-44,University,Caucasians,Men,1,"$80,000-$99,999",Decreased,No,No,0,No,Yes,0.904604232,79,5,1,2,1
