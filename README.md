@@ -25,7 +25,6 @@ This repository contains data analysis exploring which demographic groups benefi
    - Demographic variable correlation with mental health outcomes
 
 3. **Machine Learning Approaches**
-   - **XGBoost** - Feature importance analysis to identify demographic factors correlated with mental health benefits
    - **K-means Clustering** - Identification of demographic clusters and analysis of pet ownership benefits within each cluster
 
 4. **Mental Health Indicators**
@@ -38,35 +37,19 @@ This repository contains data analysis exploring which demographic groups benefi
 ## Key Findings
 Based on the cluster analysis, Cluster 0 showed the greatest mental health benefit from pet ownership during the COVID-19 pandemic. The demographic profile and specific mental health benefits for this cluster are visualized in the images below.
 
-## Visualizations
+__Stability in Pet Ownership:__
 
-### Clusters Analysis
+- The 50.9% who were pet owners had them before the pandemic.
+- This suggests that established pet relationships were most beneficial.
+- No disruption from pet loss or adaptation to new pets
 
-#### Cluster PCA Plot
-![Cluster PCA Plot](./clusters/cluster_pca_plot.png)
 
-#### Demographics by Cluster
-![Demographics by Cluster](./clusters/demographics_by_cluster.png)
+__Demographic Profile of Beneficiaries:__
 
-#### Mental Health by Cluster and Pet Ownership
-![Mental Health by Cluster and Pet Ownership](./clusters/mental_health_by_cluster_pet.png)
-
-#### Pet Benefit Heatmap
-![Pet Benefit Heatmap](./pet_benefit_heatmap.png)
-
-### Cluster 0 Results (Cluster showing greatest benefit from pet ownership)
-
-#### Age Distribution in Cluster 0
-![Age Distribution in Cluster 0](./cluster_0_results/cluster_0_age_distribution.png)
-
-#### Household Size Distribution in Cluster 0
-![Household Size Distribution in Cluster 0](./cluster_0_results/cluster_0_num_in_household_distribution.png)
-
-#### Quality of Life Distribution in Cluster 0
-![Quality of Life Distribution in Cluster 0](./cluster_0_results/cluster_0_quality_of_life_distribution.png)
-
-#### Social Support Distribution in Cluster 0
-![Social Support Distribution in Cluster 0](./cluster_0_results/cluster_0_social_support_distribution.png)
+- Middle-aged adults benefited more than older or younger groups
+- Women appeared to benefit more than men
+- Higher education levels correlated with greater benefits
+- Those with pre-existing mental health conditions showed greater benefits
 
 ## Requirements
 - Python 3.7-3.9 (Python 3.8 recommended)
