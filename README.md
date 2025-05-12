@@ -35,7 +35,7 @@ This repository contains data analysis exploring which demographic groups benefi
    - `anxiety` (higher score = more anxiety)
 
 ## Key Findings
-Based on the cluster analysis, Cluster 0 showed the greatest mental health benefit from pet ownership during the COVID-19 pandemic. The demographic profile and specific mental health benefits for this cluster are visualized in the images below.
+Based on the cluster analysis, Cluster 0 showed the greatest mental health benefit from pet ownership during the COVID-19 pandemic. The demographic profile and specific mental health benefits for this cluster are elaborated below.
 
 __Stability in Pet Ownership:__
 
